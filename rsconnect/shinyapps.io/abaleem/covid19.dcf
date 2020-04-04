@@ -1,0 +1,10 @@
+name: covid19
+title:
+username:
+account: abaleem
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1964907
+bundleId: 2967828
+url: https://abaleem.shinyapps.io/covid19/
+when: 1585992365.74299
